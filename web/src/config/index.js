@@ -12,7 +12,7 @@ export default {
    */
   baseUrl: {
     dev: 'http://localhost:9090',
-    pro: 'http://api.ang-miracle.com'
+    pro: 'https://produce.com'
   },
   /**
    * @description 默认打开的首页的路由name值，默认为home
